@@ -11,10 +11,8 @@ package pokemonapp;
  */
 public class Pokebola {
     private String tipo;
+    private int nivel;
     
-    
-    
-
     public String getTipo() {
         return tipo;
     }
